@@ -1,0 +1,144 @@
+2023-08-04 21:08:39,642.mtcars_server.INFO =============================================================
+2023-08-04 21:08:39,642.mtcars_server.INFO Today is 2023-08-04 at 09:08 PM
+2023-08-04 21:08:39,642.mtcars_server.INFO This file is running on: nt Windows 10
+2023-08-04 21:08:39,642.mtcars_server.INFO The Python version is: 3.11.1
+2023-08-04 21:08:39,642.mtcars_server.INFO The active environment path is:   C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\.venv
+2023-08-04 21:08:39,642.mtcars_server.INFO The current working directory is: C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates
+2023-08-04 21:08:39,642.mtcars_server.INFO =============================================================
+2023-08-04 21:08:41,175.mtcars_server.DEBUG filter message: Showing 32 of 32 records
+2023-08-04 21:08:41,239.mtcars_server.INFO Starting mtcars_output_widget1
+2023-08-04 21:08:41,673.mtcars_server.INFO Starting mtcars_plot1
+2023-08-04 21:08:42,486.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-04 21:08:42,488.mtcars_server.INFO READING df len 4
+2023-08-04 21:08:42,488.mtcars_server.INFO init reactive_temp_df len: 4
+2023-08-04 21:08:42,488.mtcars_server.INFO mtcars_temperature_location_string starting
+2023-08-04 21:08:42,489.mtcars_server.INFO Recent Temperature in F for ELY MN.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:08:42,489.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-08-04 21:08:42,491.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-08-04 21:08:42,533.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_stock.csv
+2023-08-04 21:08:42,534.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:42,534.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:08:42,535.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:08:42,535.mtcars_server.INFO Recent Price in USD for Cadence Design Systems.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:08:42,535.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:08:42,536.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:42,536.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:42,536.mtcars_server.INFO READING df_stocks_high 229.0
+2023-08-04 21:08:42,536.mtcars_server.INFO The daily high for Cadence Design Systems is 229.0.
+2023-08-04 21:08:42,537.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:42,539.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:08:48,563.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-04 21:08:48,569.mtcars_server.INFO READING df len 4
+2023-08-04 21:08:48,569.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-08-04 21:08:48,571.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-08-04 21:08:48,608.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:08:48,609.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_stock.csv
+2023-08-04 21:08:48,614.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:48,615.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:48,615.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:48,615.mtcars_server.INFO READING df_stocks_high 229.0
+2023-08-04 21:08:48,616.mtcars_server.INFO The daily high for Cadence Design Systems is 229.0.
+2023-08-04 21:08:48,616.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:48,618.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:08:52,925.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:08:52,926.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:08:52,926.mtcars_server.INFO Recent Price in USD for Synopys.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:08:52,927.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:08:52,927.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:52,928.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:52,928.mtcars_server.INFO READING df_stocks_high 441.42
+2023-08-04 21:08:52,928.mtcars_server.INFO The daily high for Synopys is 441.42.
+2023-08-04 21:08:52,929.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:52,931.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:08:55,120.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:08:55,121.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:08:55,121.mtcars_server.INFO Recent Price in USD for Tractor Supply Company.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:08:55,121.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:08:55,121.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:55,122.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:55,122.mtcars_server.INFO READING df_stocks_high 222.31
+2023-08-04 21:08:55,122.mtcars_server.INFO The daily high for Tractor Supply Company is 222.31.
+2023-08-04 21:08:55,123.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:55,126.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:08:57,923.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:08:57,924.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:08:57,924.mtcars_server.INFO Recent Price in USD for Costco Wholesale Corporation.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:08:57,925.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:08:57,925.mtcars_server.INFO READING df len 10
+2023-08-04 21:08:57,925.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:57,926.mtcars_server.INFO READING df_stocks_high 552.04
+2023-08-04 21:08:57,926.mtcars_server.INFO The daily high for Costco Wholesale Corporation is 552.04.
+2023-08-04 21:08:57,927.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:08:57,929.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:09:00,671.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:09:00,672.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:09:00,672.mtcars_server.INFO Recent Price in USD for Thermo Fisher Scientific Inc..
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:09:00,673.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:09:00,673.mtcars_server.INFO READING df len 10
+2023-08-04 21:09:00,674.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:00,674.mtcars_server.INFO READING df_stocks_high 548.64
+2023-08-04 21:09:00,674.mtcars_server.INFO The daily high for Thermo Fisher Scientific Inc. is 548.64.
+2023-08-04 21:09:00,675.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:00,677.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:09:03,481.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:09:03,482.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:09:03,482.mtcars_server.INFO Recent Price in USD for CDW Corporation.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:09:03,482.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:09:03,483.mtcars_server.INFO READING df len 10
+2023-08-04 21:09:03,483.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:03,484.mtcars_server.INFO READING df_stocks_high 197.87
+2023-08-04 21:09:03,484.mtcars_server.INFO The daily high for CDW Corporation is 197.87.
+2023-08-04 21:09:03,485.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:03,487.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:09:06,229.mtcars_server.INFO init reactive_price_df len: 10
+2023-08-04 21:09:06,229.mtcars_server.INFO mtcars_price_stocks_string starting
+2023-08-04 21:09:06,229.mtcars_server.INFO Recent Price in USD for Intuit Inc..
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-08-04 21:09:06,230.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:09:06,230.mtcars_server.INFO READING df len 10
+2023-08-04 21:09:06,231.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:06,231.mtcars_server.INFO READING df_stocks_high 496.98
+2023-08-04 21:09:06,231.mtcars_server.INFO The daily high for Intuit Inc. is 496.98.
+2023-08-04 21:09:06,232.mtcars_server.INFO Rendering Price table with 1 rows
+2023-08-04 21:09:06,234.mtcars_server.INFO Rendering Price chart with 1 points
+2023-08-04 21:09:44,267.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-04 21:09:44,273.mtcars_server.INFO READING df len 8
+2023-08-04 21:09:44,273.mtcars_server.INFO Rendering TEMP table with 2 rows
+2023-08-04 21:09:44,275.mtcars_server.INFO Rendering TEMP chart with 2 points
+2023-08-04 21:09:53,502.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:09:53,503.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_stock.csv
+2023-08-04 21:09:53,508.mtcars_server.INFO READING df len 20
+2023-08-04 21:09:53,508.mtcars_server.INFO READING df len 20
+2023-08-04 21:09:53,509.mtcars_server.INFO Rendering Price table with 2 rows
+2023-08-04 21:09:53,509.mtcars_server.INFO READING df_stocks_high 496.98
+2023-08-04 21:09:53,509.mtcars_server.INFO The daily high for Intuit Inc. is 496.98.
+2023-08-04 21:09:53,510.mtcars_server.INFO Rendering Price table with 2 rows
+2023-08-04 21:09:53,511.mtcars_server.INFO Rendering Price chart with 2 points
+2023-08-04 21:10:45,197.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-08-04 21:10:45,202.mtcars_server.INFO READING df len 12
+2023-08-04 21:10:45,203.mtcars_server.INFO Rendering TEMP table with 3 rows
+2023-08-04 21:10:45,205.mtcars_server.INFO Rendering TEMP chart with 3 points
+2023-08-04 21:10:58,071.mtcars_server.INFO mtcars_price_stocks_daily_high starting
+2023-08-04 21:10:58,071.mtcars_server.INFO READING df from C:\Users\jorda\OneDrive\Desktop\Northwest Homework\1. Continuous Intellgience\Module 5\cintel-05-live-updates\data\mtcars_stock.csv
+2023-08-04 21:10:58,077.mtcars_server.INFO READING df len 30
+2023-08-04 21:10:58,077.mtcars_server.INFO READING df len 30
+2023-08-04 21:10:58,078.mtcars_server.INFO Rendering Price table with 3 rows
+2023-08-04 21:10:58,078.mtcars_server.INFO READING df_stocks_high 496.98
+2023-08-04 21:10:58,078.mtcars_server.INFO The daily high for Intuit Inc. is 496.98.
+2023-08-04 21:10:58,079.mtcars_server.INFO Rendering Price table with 3 rows
+2023-08-04 21:10:58,080.mtcars_server.INFO Rendering Price chart with 3 points
